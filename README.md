@@ -8,5 +8,5 @@
 5) Kotlin
 6) Html, CSS and Javascript
 - I’m currently studying BSCS in Muhammad Ali Jinnah University
-- 📫 Email: ifham.khan112@gmail.com
+- 📫 Email: ifham.khan105@gmail.com
 - 📱  Phone: 92-3161611907
