@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Ifham Ahmed Khan</h1>
-<h3 align="center">Following the Passion for solving real-world problems through data and technology. dedicated and detail-oriented individual looking for an entry-level position</h3>
+<h3 align="center">Following the Passion for solving real-world problems through data and technology. Dedicated and detail-oriented individual looking for an entry-level position</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Data Science**
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Analysis and Data Science**
+- 💬 Ask me about **Python, Machine and Deep Learning, Data Analysis and Data Science, I have also work on streamlit**
 
 - 📫 How to reach me **ifham.khan105@gmail.com**
 
-- ⚡ Fun fact **Happy Learning**
+- ⚡ Fun fact **Happy Learning** currently learning django and react
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
